@@ -1,24 +1,25 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Menu from './components/Menu';
+import Carrosel from './components/Carousel';
+import Footer from './components/Footer';
+import BannerMain from './components/BannerMain';
+import dadosIniciais from './data/dados_iniciais.json';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Menu />
+      
+      <BannerMain videoTitle={dadosIniciais.categorias[0].videos[0].titulo} 
+                  url={dadosIniciais.categorias[0].videos[0].url}
+                  videoDescription={"Bla bla bla"} />
+        
+      <Carrosel ignoreFirstVideo category={dadosIniciais.categorias[0]} />
+      <Carrosel ignoreFirstVideo category={dadosIniciais.categorias[1]} />
+      <Carrosel ignoreFirstVideo category={dadosIniciais.categorias[3]} />
+      <Carrosel ignoreFirstVideo category={dadosIniciais.categorias[4]} />
+      <Carrosel ignoreFirstVideo category={dadosIniciais.categorias[5]} />
+
     </div>
   );
 }
