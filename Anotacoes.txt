@@ -1,0 +1,29 @@
+-Aula1-------------------------------------------------------------------------------------------------
+
+Comandos:
+    npx create-react-app orionflix
+    cd orionflix
+    npm start / yarn start
+
+
+Criaçao do logo: https://fontmeme.com/netflix-font/
+    https://fontmeme.com/permalink/200815/09229f9959291b04db84681e147c4e74.png
+
+Arquivo do projeto do site no figma: https://drive.google.com/file/d/1ml7tw1x0KLYDUKIIsHu6SRZeFZnnmmV_/view
+Projeto no figma: https://www.figma.com/file/lTP338PGruOos0qjRuN4oG/AluraFlix?node-id=181%3A10
+
+Ferramentas:
+    - Figma: Ferramenta de Design free e online https://www.figma.com/
+    - vscode-styled-components https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
+    - https://fonts.google.com/
+    - 
+
+Links:
+    - https://pt-br.reactjs.org/docs/getting-started.html
+    - https://www.youtube.com/watch?v=5MzOCxSWrrc
+    - https://www.alura.com.br/artigos/visualstudio-code-instalacao-teclas-de-atalho-plugins-e-integracoes
+    - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
+    - https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
+    - https://www.youtube.com/watch?v=k1vdmXDgMJI&list=PLTcmLKdIkOWkkBSilAr6iqdnSDXdiiyIq
+    - https://www.youtube.com/watch?v=yMRSDdifGW8
+    - 
