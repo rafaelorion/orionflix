@@ -6,6 +6,9 @@ Comandos:
     npm start / yarn start
 
 
+Projeto final: https://orionflix.vercel.app/
+Dashboard: https://vercel.com/rafaelorion/orionflix
+
 Criaçao do logo: https://fontmeme.com/netflix-font/
     https://fontmeme.com/permalink/200815/09229f9959291b04db84681e147c4e74.png
 
@@ -16,7 +19,7 @@ Ferramentas:
     - Figma: Ferramenta de Design free e online https://www.figma.com/
     - vscode-styled-components https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
     - https://fonts.google.com/
-    - 
+    - vercel: Site para fazer o deploy https://vercel.com/
 
 Links:
     - https://pt-br.reactjs.org/docs/getting-started.html
@@ -25,5 +28,16 @@ Links:
     - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
     - https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
     - https://www.youtube.com/watch?v=k1vdmXDgMJI&list=PLTcmLKdIkOWkkBSilAr6iqdnSDXdiiyIq
-    - https://www.youtube.com/watch?v=yMRSDdifGW8
+    - https://www.youtube.com/watch?v=yMRSDdifGW8 
+
+-Aula1-------------------------------------------------------------------------------------------------
+
+Comandos:
+    npm install react-router-dom
+
+Links:
+    - https://reactrouter.com/web/guides/quick-start
     - 
+
+
+
