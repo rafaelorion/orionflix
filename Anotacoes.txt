@@ -36,11 +36,11 @@ Comandos:
     npm install react-router-dom
     npm install react-slick
     npm install react-router-dom react-slick
-    
+
 Links:
     - https://reactrouter.com/web/guides/quick-start
-    - 
+    
+-Aula3-------------------------------------------------------------------------------------------------
 
-
-
-aulda2: 52:30
+Comandos:
+    
