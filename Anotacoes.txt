@@ -30,14 +30,17 @@ Links:
     - https://www.youtube.com/watch?v=k1vdmXDgMJI&list=PLTcmLKdIkOWkkBSilAr6iqdnSDXdiiyIq
     - https://www.youtube.com/watch?v=yMRSDdifGW8 
 
--Aula1-------------------------------------------------------------------------------------------------
+-Aula2-------------------------------------------------------------------------------------------------
 
 Comandos:
     npm install react-router-dom
-
+    npm install react-slick
+    npm install react-router-dom react-slick
+    
 Links:
     - https://reactrouter.com/web/guides/quick-start
     - 
 
 
 
+aulda2: 52:30
