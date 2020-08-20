@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
-import Home from './components/pages/home/Index';
-import CadastroVideo from './components/pages/cadastro/video';
-import CadastroCategoria from './components/pages/cadastro/categoria';
+import Home from './pages/home/Index';
+import CadastroVideo from './pages/cadastro/video';
+import CadastroCategoria from './pages/cadastro/categoria';
 import { BrowserRouter,Switch, Route } from 'react-router-dom';
 
 const Pagina404 = () => (<div>Pagina 404</div>)

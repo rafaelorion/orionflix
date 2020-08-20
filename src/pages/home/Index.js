@@ -1,9 +1,9 @@
 import React from 'react';
-import Menu from '../../Menu';
-import Carrosel from '../../Carousel';
-import Footer from '../../Footer';
-import BannerMain from '../../BannerMain';
-import dadosIniciais from '../../../data/dados_iniciais.json';
+import Menu from '../../components/Menu';
+import Carrosel from '../../components/Carousel';
+import Footer from '../../components/Footer';
+import BannerMain from '../../components/BannerMain';
+import dadosIniciais from '../../data/dados_iniciais.json';
 
 function Home() {
   return (
