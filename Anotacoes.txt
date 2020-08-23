@@ -102,4 +102,9 @@ Concurrently: lib para rodar 2 comandos simultanes no terminal
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  
+
+    https://orionflix.vercel.app/
+    https://orionflix.herokuapp.com/categorias
+
+
+    

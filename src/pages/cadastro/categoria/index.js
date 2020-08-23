@@ -35,7 +35,10 @@ function CadastroCategoria() {
     }
 
     useEffect(() =>  { 
-      const URL = 'http://localhost:8080/categorias';
+      const URL_LOCAL  = 'http://localhost:8080/categorias';
+      const URL_HEROKU = 'https://orionflix.herokuapp.com/categorias';
+      const URL = window.location.hostname.includes('localhost') ? URL_LOCAL : URL_HEROKU;
+      
       fetch(URL).then(async(response) => {
         const responseData = await response.json();
         setCategorias([
