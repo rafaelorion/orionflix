@@ -40,7 +40,45 @@ Comandos:
 Links:
     - https://reactrouter.com/web/guides/quick-start
     
--Aula3-------------------------------------------------------------------------------------------------
+-Aula4-------------------------------------------------------------------------------------------------
 
 Comandos:
+    npx eslint --init
+        Escolher terceira opçao (To check syntax, find problems, and enforce code style)
+        Escolher primeira opçao (JavaScript modules import/export)
+        Escolher primeira opçao (React)
+        Escolher opçao N 
+        Escolher opçao Browser
+        Escolher primeira opçao (use a popular style guide ) 
+        Escolher primeira opçao (Airbnb)
+        Escolher primeira opçao (JavaScript)
+        Escolher opçao Y 
+
+
+    Add Plugin ESlint no visual code
+    Enable ESlint plugin
     
+    npm install porp-types
+    npm install json-server
+
+    Para rodar a API:
+    npm run server
+
+    npm install --save-dev concurrently
+
+    Para rodar a aplicaçao junto com  a API usar o comando:
+    npm run dev
+
+
+    
+Links:
+- https://eslint.org/
+- https://github.com/airbnb/javascript
+- https://gist.github.com/omariosouto/643616a1f923b3350675b643cccb462a
+- https://www.npmjs.com/package/eslint-plugin-jsx-a11y
+- https://github.com/typicode/json-server
+- https://www.npmjs.com/package/concurrently
+- https://dashboard.heroku.com/
+
+Concurrently: lib para rodar 2 comandos simultanes no terminal
+                nesse caso usado para subir a api e a aplicaçao juntos no mesmo comando
