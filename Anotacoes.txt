@@ -107,4 +107,35 @@ Concurrently: lib para rodar 2 comandos simultanes no terminal
     https://orionflix.herokuapp.com/categorias
 
 
-    
+-Aula5-------------------------------------------------------------------------------------------------    
+
+    Links:
+    - https://gist.github.com/omariosouto/710e1627703647c311d511f07a5aa611
+    - https://github.com/omariosouto/devsoutinhoflix
+    - https://www.youtube.com/watch?v=-nYNd6EuZHU&feature=youtu.be
+    - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist
+
+--------------------------------------------------------------------------------------------------------
+ Tutorial:
+    https://www.alura.com.br/imersao-react/aula01-react-aluraflix
+    https://www.alura.com.br/imersao-react/aula02-roteamento-state
+    https://www.alura.com.br/imersao-react/aula03-formularios-componentes
+    https://www.alura.com.br/imersao-react/aula04-ajax-validacao
+    https://www.alura.com.br/imersao-react/aula05-gerenciamendo-videos
+
+ Source:
+    https://github.com/rafaelorion/orionflix
+    https://vercel.com/rafaelorion/orionflix
+    https://dashboard.heroku.com/apps/orionflix
+
+Deploy:
+    https://orionflix.herokuapp.com/categorias
+    https://orionflix.vercel.app
+
+Local:
+    http://localhost:3000
+    http://localhost:8080/categorias
+
+Command line:
+    npm run dev
+--------------------------------------------------------------------------------------------------------

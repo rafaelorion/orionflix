@@ -2,7 +2,6 @@
     "categorias": [
       {
         "id": 1,
-        "nome": "Front End",
         "titulo": "Front End",
         "cor": "#6BD1FF",
         "link_extra": {
@@ -12,7 +11,6 @@
       },
       {
         "id": 2,
-        "nome": "Back End",
         "titulo": "Back End",
         "cor": "#00C86F",
         "link_extra": {
@@ -22,7 +20,6 @@
       },
       {
         "id": 3,
-        "nome": "Data Science e Inteligência Artificial",
         "titulo": "Data Science e Inteligência Artificial",
         "cor": "#9cd33b",
         "link_extra": {
@@ -32,13 +29,11 @@
       },
       {
         "id": 4,
-        "nome": "Filmes",
         "titulo": "Filmes",
         "cor": "orange"
       },
       {
         "id": 5,
-        "nome": "Games",
         "titulo": "Games",
         "cor": "red",
         "link_extra": {
