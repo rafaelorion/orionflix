@@ -82,3 +82,24 @@ Links:
 
 Concurrently: lib para rodar 2 comandos simultanes no terminal
                 nesse caso usado para subir a api e a aplicaçao juntos no mesmo comando
+
+"scripts": {
+    "server": "json-server --watch db.json --port 8080",
+    "dev": "concurrently \"react-scripts start\" \"npm run server\"",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+
+  Mudou para 
+
+  "scripts": {
+    "server": "node ./server.js",
+    "dev": "concurrently \"react-scripts start\" \"npm run server\"",
+    "start": "npm run server",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  
